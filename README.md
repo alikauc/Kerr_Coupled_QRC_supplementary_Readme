@@ -1,2 +1,2 @@
-# Kerr_Coupled_QRC_supplementary_Readme
-This is a readme repository for a private repository which will be public soon.
+# Kerr-Coupled-QRC-supplementary
+This repository contains some supplemetary work in coupled Kerr QRC project which are not discussed in the paper such as algorithmic hyperparameter optimization, delay effect analysis, and data anlysis of MG series results  
